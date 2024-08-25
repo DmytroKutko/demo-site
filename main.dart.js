@@ -88188,7 +88188,7 @@ s($,"aR7","aBo",()=>A.bT("#[^'\"]*$",!0,!1))
 s($,"aR8","aBp",()=>A.bT("#.*$",!0,!1))
 s($,"aRa","at3",()=>A.bT("^([\"'])(.*?[^\\\\])\\1",!0,!1))
 s($,"aR6","aBn",()=>A.bT("(\\\\)?(\\$)(?:{)?([a-zA-Z_][\\w]*)+(?:})?",!0,!1))
-r($,"aUq","aDn",()=>{var q="/gallery",p=null,o=A.b([A.avm(new A.apA(),q)],t.yo)
+r($,"aUq","aDn",()=>{var q="/demo-site",p=null,o=A.b([A.avm(new A.apA(),q)],t.yo)
 return A.aG9(!1,p,p,p,p,q,p,p,p,!1,p,!0,p,!1,new A.ON(new A.abb(o,A.aP5(),5)))})
 r($,"aUv","aDp",()=>A.ud(null,null,$.aDi(),B.K7,null))
 r($,"aUc","aDi",()=>{var q=null
